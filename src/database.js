@@ -5,6 +5,7 @@ const config = require("./config");
 const mongooseOptions = {
 	useUnifiedTopology: true,
 	useNewUrlParser: true,
+	useCreateIndex: true,
 };
 
 mongoose
