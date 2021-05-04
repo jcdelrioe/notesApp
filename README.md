@@ -1,5 +1,7 @@
 # notesApp
 
+Notes application with passport authentication, users, notes, ENV
+
 Features:
 * Register user
 * Login user
@@ -21,3 +23,4 @@ This application was made with:
 + connect-flash
 +method-override
 + morgan
++ dotenv
